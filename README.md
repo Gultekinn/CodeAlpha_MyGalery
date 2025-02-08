@@ -18,9 +18,8 @@ Feel free to explore the gallery and discover how the modern design and interact
 Installation:
 Clone the repository and run it locally:
 
-bash
-Copy
-Edit
 git clone <repository-url>
+
 cd my-gallery
+
 open index.html
